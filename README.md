@@ -1,2 +1,2 @@
 # BUS231_Project_Files
-Updated repo for Posit Cloud Lab Exports
+This repo contains the most current Posit Cloud Lab Project Exports
